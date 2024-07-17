@@ -1,4 +1,6 @@
 # End-To-End-Chatting-App
+applying encryption and decryption techniques for example: (DES, AES, RSA, RC4, ElGamal, CAESAR, MONO, VIGENERE, PLAYFAIR, ROW, REIL)
+
 
 
 the user chooses the encryption technique  
